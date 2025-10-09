@@ -1,0 +1,15 @@
+[Added Associations]
+application/json=org.kde.kate.desktop;nvim.desktop;vim.desktop;
+application/x-docbook+xml=org.kde.kate.desktop;nvim.desktop;vim.desktop;
+application/x-yaml=org.kde.kate.desktop;nvim.desktop;vim.desktop;
+text/markdown=org.kde.kate.desktop;nvim.desktop;vim.desktop;
+text/plain=org.kde.kate.desktop;nvim.desktop;vim.desktop;
+text/x-cmake=org.kde.kate.desktop;nvim.desktop;vim.desktop;
+
+[Default Applications]
+application/json=org.kde.kate.desktop;
+application/x-docbook+xml=org.kde.kate.desktop;
+application/x-yaml=org.kde.kate.desktop;
+text/markdown=org.kde.kate.desktop;
+text/plain=org.kde.kate.desktop;
+text/x-cmake=org.kde.kate.desktop;

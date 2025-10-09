@@ -1,0 +1,6 @@
+2025/10/08-16:06:39.798 a7d Reusing MANIFEST /home/tamashii/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2025/10/08-16:06:39.805 a7d Recovering log #124
+2025/10/08-16:06:39.805 a7d Reusing old log /home/tamashii/.config/YouTube Music/Local Storage/leveldb/000124.log 
+2025/10/08-16:59:40.172 a7f Level-0 table #128: started
+2025/10/08-16:59:40.188 a7f Level-0 table #128: 15764 bytes OK
+2025/10/08-16:59:40.197 a7f Delete type=0 #124

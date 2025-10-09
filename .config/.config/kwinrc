@@ -1,0 +1,23 @@
+[Activities][LastVirtualDesktop]
+41970799-0cb4-4852-b930-cee2d335de20=6485202c-79b6-418e-84fd-bd5ea492a5b4
+
+[Desktops]
+Id_1=6485202c-79b6-418e-84fd-bd5ea492a5b4
+Name_1=Desktop 2
+Number=1
+Rows=1
+
+[Tiling]
+padding=4
+
+[Tiling][6485202c-79b6-418e-84fd-bd5ea492a5b4][ff038b9d-213e-421d-9ead-3dd073ae86ca]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][70d980e6-f0b6-494c-bc0a-8c75527cfbab][ff038b9d-213e-421d-9ead-3dd073ae86ca]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c8f0f5d8-cc12-4a1f-b477-2df2c0b73cb6][ff038b9d-213e-421d-9ead-3dd073ae86ca]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1

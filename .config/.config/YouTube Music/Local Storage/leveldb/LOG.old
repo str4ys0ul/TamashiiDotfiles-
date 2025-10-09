@@ -1,0 +1,39 @@
+2025/10/07-15:46:37.944 37fb Reusing MANIFEST /home/tamashii/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2025/10/07-15:46:37.951 37fb Recovering log #109
+2025/10/07-15:46:37.952 37fb Reusing old log /home/tamashii/.config/YouTube Music/Local Storage/leveldb/000109.log 
+2025/10/07-16:05:38.390 37fd Level-0 table #113: started
+2025/10/07-16:05:38.410 37fd Level-0 table #113: 15864 bytes OK
+2025/10/07-16:05:38.417 37fd Delete type=0 #109
+2025/10/07-16:05:38.417 37fd Compacting 4@0 + 1@1 files
+2025/10/07-16:05:38.423 37fd Generated table #114@0: 12 keys, 1250 bytes
+2025/10/07-16:05:38.423 37fd Compacted 4@0 + 1@1 files => 1250 bytes
+2025/10/07-16:05:38.431 37fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/07-16:05:38.432 37fd Delete type=2 #102
+2025/10/07-16:05:38.432 37fd Delete type=2 #105
+2025/10/07-16:05:38.432 37fd Delete type=2 #108
+2025/10/07-16:05:38.432 37fd Delete type=2 #113
+2025/10/07-16:05:38.432 37fd Delete type=2 #110
+2025/10/07-17:00:38.390 37fd Level-0 table #116: started
+2025/10/07-17:00:38.404 37fd Level-0 table #116: 15566 bytes OK
+2025/10/07-17:00:38.412 37fd Delete type=0 #112
+2025/10/07-18:21:44.406 37fd Level-0 table #118: started
+2025/10/07-18:21:44.420 37fd Level-0 table #118: 15105 bytes OK
+2025/10/07-18:21:44.427 37fd Delete type=0 #115
+2025/10/07-19:05:13.643 37fd Level-0 table #120: started
+2025/10/07-19:05:13.657 37fd Level-0 table #120: 15249 bytes OK
+2025/10/07-19:05:13.664 37fd Delete type=0 #117
+2025/10/07-19:49:12.975 37fd Level-0 table #122: started
+2025/10/07-19:49:12.989 37fd Level-0 table #122: 15329 bytes OK
+2025/10/07-19:49:12.996 37fd Delete type=0 #119
+2025/10/07-19:49:12.996 37fd Compacting 4@0 + 1@1 files
+2025/10/07-19:49:13.003 37fd Generated table #123@0: 12 keys, 1245 bytes
+2025/10/07-19:49:13.003 37fd Compacted 4@0 + 1@1 files => 1245 bytes
+2025/10/07-19:49:13.010 37fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/07-19:49:13.010 37fd Delete type=2 #118
+2025/10/07-19:49:13.010 37fd Delete type=2 #122
+2025/10/07-19:49:13.010 37fd Delete type=2 #114
+2025/10/07-19:49:13.010 37fd Delete type=2 #120
+2025/10/07-19:49:13.010 37fd Delete type=2 #116
+2025/10/07-20:49:17.844 37fb Level-0 table #125: started
+2025/10/07-20:49:17.859 37fb Level-0 table #125: 15712 bytes OK
+2025/10/07-20:49:17.867 37fb Delete type=0 #121

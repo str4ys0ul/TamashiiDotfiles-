@@ -1,0 +1,12 @@
+2025/10/07-15:46:38.430 381f Reusing MANIFEST /home/tamashii/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/07-15:46:38.431 381f Recovering log #183
+2025/10/07-15:46:38.434 381f Reusing old log /home/tamashii/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000183.log 
+2025/10/07-19:27:08.843 37fd Level-0 table #188: started
+2025/10/07-19:27:08.864 37fd Level-0 table #188: 1710963 bytes OK
+2025/10/07-19:27:08.872 37fd Delete type=0 #183
+2025/10/07-19:50:59.413 37fb Compacting 1@1 + 1@2 files
+2025/10/07-19:50:59.430 37fb Generated table #189@1: 2886 keys, 98064 bytes
+2025/10/07-19:50:59.430 37fb Compacted 1@1 + 1@2 files => 98064 bytes
+2025/10/07-19:50:59.437 37fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/07-19:50:59.437 37fb Delete type=2 #185
+2025/10/07-19:50:59.437 37fb Delete type=2 #188

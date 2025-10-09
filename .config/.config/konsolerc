@@ -1,0 +1,15 @@
+MenuBar=Disabled
+
+[General]
+ConfigVersion=1
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[UiSettings]
+ColorScheme=

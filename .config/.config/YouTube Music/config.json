@@ -1,0 +1,91 @@
+{
+	"window-size": {
+		"width": 1045,
+		"height": 857
+	},
+	"window-maximized": false,
+	"window-position": {
+		"x": 119,
+		"y": 135
+	},
+	"url": "https://music.youtube.com/watch?v=nRUa2vc_Jas",
+	"options": {
+		"tray": false,
+		"appVisible": true,
+		"autoUpdates": true,
+		"alwaysOnTop": false,
+		"hideMenu": false,
+		"hideMenuWarned": false,
+		"startAtLogin": false,
+		"disableHardwareAcceleration": false,
+		"removeUpgradeButton": false,
+		"restartOnConfigChanges": false,
+		"trayClickPlayPause": false,
+		"autoResetAppCache": false,
+		"resumeOnStart": false,
+		"likeButtons": "",
+		"proxy": "",
+		"startingPage": "",
+		"overrideUserAgent": false,
+		"usePodcastParticipantAsArtist": false,
+		"themes": [
+			"/home/tamashii/.config/themes/transparent.css"
+		]
+	},
+	"plugins": {
+		"notifications": {
+			"enabled": true
+		},
+		"video-toggle": {
+			"mode": "custom"
+		},
+		"precise-volume": {
+			"globalShortcuts": {}
+		},
+		"discord": {
+			"enabled": true,
+			"autoReconnect": true,
+			"activityTimeoutEnabled": true,
+			"activityTimeoutTime": 600000,
+			"playOnYouTubeMusic": true,
+			"hideGitHubButton": false,
+			"hideDurationLeft": false,
+			"statusDisplayType": 2,
+			"listenAlong": true
+		},
+		"in-app-menu": {
+			"enabled": true
+		},
+		"album-color-theme": {
+			"enabled": true
+		},
+		"ambient-mode": {
+			"enabled": true,
+			"quality": 50,
+			"buffer": 30,
+			"interpolationTime": 1500,
+			"blur": 100,
+			"size": 300,
+			"opacity": 1,
+			"fullscreen": false
+		},
+		"compact-sidebar": {
+			"enabled": true
+		},
+		"synced-lyrics": {
+			"enabled": true,
+			"preciseTiming": true,
+			"showLyricsEvenIfInexact": true,
+			"showTimeCodes": false,
+			"defaultTextString": "♪",
+			"lineEffect": "fancy",
+			"romanization": true,
+			"preferredProvider": "YTMusic"
+		}
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.11.0"
+		}
+	}
+}
