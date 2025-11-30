@@ -1,0 +1,12 @@
+
+#  _                            _     _ _
+# | |                          | |   (_|_)
+# | |_ __ _ _ __ ___   __ _ ___| |__  _ _
+# | __/ _` | '_ ` _ \ / _` / __| '_ \| | |
+# | || (_| | | | | | | (_| \__ \ | | | | |
+#  \__\__,_|_| |_| |_|\__,_|___/_| |_|_|_|
+
+# Browser Picture in Picture
+windowrule = float, title:^(Picture-in-Picture)$
+windowrule = pin, title:^(Picture-in-Picture)$
+windowrule = move 69.5% 4%, title:^(Picture-in-Picture)$
